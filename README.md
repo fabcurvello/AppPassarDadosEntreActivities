@@ -45,7 +45,6 @@ Outros repositórios de aula com o mesmo tema:
 
 - [AppPassarDadosEntreActivitiesAnimaUNA](https://github.com/fabcurvello/AppPassarDadosEntreActivitiesAnimaUNA)
 - [AppPassarDadosEntreActivitiesJava](https://github.com/fabcurvello/AppPassarDadosEntreActivitiesJava)
-- [AppPassarDadosEntreActivitiesAnima](https://github.com/fabcurvello/AppPassarDadosEntreActivitiesAnima)
 
 ## Autor
 
